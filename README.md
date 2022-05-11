@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sallyali7
-- General Assembly Immersive software engineering bootcamp
+- Full Stack Software Engineer
 
 
 <!---
